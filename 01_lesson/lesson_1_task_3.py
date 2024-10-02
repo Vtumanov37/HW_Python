@@ -1,3 +1,3 @@
 first_name = ('Виктор')
-Last_name = ('Туманов')
-print('Вас зовут:', Last_name + ' ' + first_name)
+last_name = ('Туманов')
+print('Вас зовут:', last_name + ' ' + first_name)
