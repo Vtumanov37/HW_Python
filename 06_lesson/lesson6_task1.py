@@ -18,4 +18,3 @@ txt = (driver.find_element(By.CSS_SELECTOR, 'p.bg-success').text)
 
 print(txt)
 driver.quit()
-
